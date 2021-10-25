@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rtoledo-fullstacklabs
+- 👀 I’m interested in doing the best that I can do every day. Normally we stop in something that we think is good, but knowing is the best way to improve yourself
+- 🌱 I’m currently learning ruby on rails 7alpha, react native with hooks and nextjs.
+- 💞️ I’m looking to collaborate on helping the team and tasks that I'm inside. Accepting and giving knowledge 
+- 📫 How to reach me, in slack just send message to @rtoledo, every possible I'll help in the channels like **ruby**. My email is rtoledo@fullstacklabs.co and the like slack, send an email with doubts, advice, questions, we will find the 100% of 1% that can be done
